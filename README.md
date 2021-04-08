@@ -6,4 +6,4 @@ as well as some personal projects.
 
 I hope to use my studies at UMass as a tool to problem solve and in turn innovate technologies in the near future
 
-Aside from the field of computer science, my other interests are in the humanities, philosophy, and music theory.
+Aside from the field of computer science, my other interests are in the humanities, philosophy, finance, and music theory.
