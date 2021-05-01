@@ -1,5 +1,5 @@
-Hi my name is Hue Truong
-I'm a UMass Amherst student focusing on computer science
+Hi my name is Hue Truong,
+I am currently a third-year student at UMass Amherst studying computer science. 
 
 I'll be uploading some cool projects that I found highlighted some of my courses,
 as well as some personal projects.
