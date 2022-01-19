@@ -1,4 +1,5 @@
 Hello all,
+
 I am currently a fourth-year student at UMass Amherst studying computer science. 
 
 My intentions are to upload interesting projects throughout my time at UMass, as well as many personal projects.
