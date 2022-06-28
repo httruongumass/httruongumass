@@ -1,4 +1,4 @@
-Currently a fourth-year student at UMass Amherst studying computer science. 
+Recent graduate from UMass Amherst with a B.S in Computer Science
 
 My intentions are to upload interesting projects throughout my time at UMass, as well as many personal projects.
 
